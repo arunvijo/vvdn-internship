@@ -1,1 +1,1 @@
-# vvdn-internship
+# VVDN Internship
