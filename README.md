@@ -1,1 +1,1 @@
-# VVDN Internship
+# VVDN Internship- Django Project
